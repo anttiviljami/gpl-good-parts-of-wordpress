@@ -24,7 +24,7 @@
 - The GPL License states that any program that uses parts of another GPL
   Licensed program, is also licensed under the GPL and must contain the GPL
   license.
-- That is, if you publish your software for other people to use.
+- That is, if you distribute your code for other people to use.
 - That means all WordPress plugins and themes; doesn't matter if they're paid
   or free, are Open Source.
 
@@ -76,4 +76,9 @@ support to people who use your plugin.
 Yes, GPL still allows you to sell your code. Lots of companies do it!
 
 (Themeforest, WooThemes, Yoast)
+
+## GPL Does Not...
+
+### Mean Software is Free of Charge
+
 
