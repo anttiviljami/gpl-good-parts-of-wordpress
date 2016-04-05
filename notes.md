@@ -77,8 +77,14 @@ Yes, GPL still allows you to sell your code. Lots of companies do it!
 
 (Themeforest, WooThemes, Yoast)
 
-## GPL Does Not...
+## Misconceptions
 
-### Mean Software is Free of Charge
+1. You can't get paid
+
+2. You don't have to pay
+
+3. Paid plugins are not GPL
+
+4. People who develop Open Source software do it for free.
 
 
